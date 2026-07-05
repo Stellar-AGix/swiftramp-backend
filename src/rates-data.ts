@@ -3,7 +3,7 @@ export const mockRates: Record<string, number> = {
   USD: 1,
   NGN: 1588.62,
   KES: 129,
-  GHS: 12.56,
+  GHS: 12.5,
   ZAR: 18.23,
   EUR: 0.96,
   GBP: 0.79,
