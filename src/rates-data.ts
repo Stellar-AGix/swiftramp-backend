@@ -6,5 +6,5 @@ export const mockRates: Record<string, number> = {
   GHS: 12.55,
   ZAR: 18.24,
   EUR: 1,
-  GBP: 0.81,
+  GBP: 0.82,
 }
